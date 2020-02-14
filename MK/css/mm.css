@@ -1,0 +1,42 @@
+.div1{
+   position: absolute;
+   left: 0;
+   top: 0;
+   height: 1000px;
+   width: 100%;
+   background-image: url(https://cdn.dribbble.com/users/116499/screenshots/9832332/media/71114354582fd71ac8293fe458c0b8ad.png);
+   text-align: center;
+}
+.div2{
+  position: absolute;
+  background-color: #f1c6de;
+  top: 1000px;
+  left: 0;
+  height: 500px;
+  width: 100%
+}
+
+.div4{
+  text-align: center;
+  position: absolute;
+  background-color: #fe346e;
+  top: 1500px;
+  left: 0;
+  height: 500px;
+  width: 100%
+}
+.div5{
+  text-align: center;
+  position: absolute;
+  background-color: white;
+  top: 2500px;
+  left: 0;
+  height: 500px;
+  width: 100%
+}
+
+.R1{
+  font-family: 'Cookie', cursive;
+  font-size: 8rem;
+  color: #ffc4d0;
+}
